@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/18_error_handling/iterating_over_results/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_std_library_types/box_stack_and_heap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_std_library_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_std_library_types/strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_std_library_types/vectors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_std_library_types/option/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17_macro_rules/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_std_library_types/hashmap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_std_library_types/panic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_std_library_types/result/question/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_std_library_types/result/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_std_library_types/hashmap/alternate_custom_key_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_std_library_types/hashmap/hashSet/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_std_library_types/rc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_std_library_types/arc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/threads/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/threads/testcase_map-reduce/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/channels/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/file_io/create/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/file_io/open/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/file_io/read_lines/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/file_io/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/path/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/child_processes/pipes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/child_processes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/child_processes/wait/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/filesystem_operations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/foreign_function_interface/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/program_arguments/argument_parsing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_std_misc/program_arguments/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21_testing/dev_dependencies/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21_testing/documentation_testing/doccomments/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21_testing/documentation_testing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21_testing/integration_testing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21_testing/integration_testing/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/21_testing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21_testing/unit_testing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22_unsafe_operations/inline_assembly/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22_unsafe_operations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23_compatibility/raw_identifiers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23_compatibility/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/24_meta/documentation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17_macro_rules/DRY/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18_error_handling/option_and_unwrap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18_error_handling/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1_hello_world/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_modules/10_1_visibility/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_modules/10_2_struct_visibility/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_modules/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_modules/10_4_file_hierarchy/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/18_error_handling/iterating_over_results/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_std_library_types/box_stack_and_heap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_std_library_types/strings/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_std_library_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_std_library_types/vectors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_std_library_types/option/target" />
+      <excludeFolder url="file://$MODULE_DIR$/17_macro_rules/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_std_library_types/hashmap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_std_library_types/panic/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_std_library_types/result/question/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_std_library_types/result/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_std_library_types/hashmap/alternate_custom_key_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_std_library_types/hashmap/hashSet/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_std_library_types/rc/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_std_library_types/arc/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/threads/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/threads/testcase_map-reduce/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/channels/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/file_io/create/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/file_io/open/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/file_io/read_lines/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/file_io/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/path/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/child_processes/pipes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/child_processes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/child_processes/wait/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/filesystem_operations/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/foreign_function_interface/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/program_arguments/argument_parsing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_std_misc/program_arguments/target" />
+      <excludeFolder url="file://$MODULE_DIR$/21_testing/dev_dependencies/target" />
+      <excludeFolder url="file://$MODULE_DIR$/21_testing/documentation_testing/doccomments/target" />
+      <excludeFolder url="file://$MODULE_DIR$/21_testing/documentation_testing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/21_testing/integration_testing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/21_testing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/21_testing/unit_testing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/22_unsafe_operations/inline_assembly/target" />
+      <excludeFolder url="file://$MODULE_DIR$/22_unsafe_operations/target" />
+      <excludeFolder url="file://$MODULE_DIR$/23_compatibility/raw_identifiers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/23_compatibility/target" />
+      <excludeFolder url="file://$MODULE_DIR$/24_meta/documentation/target" />
+      <excludeFolder url="file://$MODULE_DIR$/17_macro_rules/DRY/target" />
+      <excludeFolder url="file://$MODULE_DIR$/18_error_handling/option_and_unwrap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/18_error_handling/target" />
+      <excludeFolder url="file://$MODULE_DIR$/1_hello_world/target" />
+      <excludeFolder url="file://$MODULE_DIR$/10_modules/10_1_visibility/target" />
+      <excludeFolder url="file://$MODULE_DIR$/10_modules/10_2_struct_visibility/target" />
+      <excludeFolder url="file://$MODULE_DIR$/10_modules/target" />
+      <excludeFolder url="file://$MODULE_DIR$/10_modules/10_4_file_hierarchy/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="ea6dfa5e-9401-4143-8c97-27b6d3ee8ed0" />
+  </component>
+</module>
